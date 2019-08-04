@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/philomena/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/39091d91b6be142a689a859d4c994904/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/philomena/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e4184c8f4049f01ed5ae068bd6eafef2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/philomena/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/abb36b40a58eb821a806bc2cc6993318/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/philomena/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b3038739156ad5962e16e94298225bb0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/philomena/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e0e4d373cf44e31ea7c5544c8cdafa89/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/philomena/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b793009bd176569a0d87d91ed824616f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/philomena/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b183afad65fe2ae9dcd17f57f6992f32/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/philomena/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d2b8f7b9eaf311aa70be6670f1d804ed/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/philomena/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7cb98bb2271956277594adea3719eab8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/philomena/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e97ad3f37c892d65c256e7ce52424cb4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/philomena/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b46b55610c09bd6674764a1343b41bd2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/philomena/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1371622bb6aeed6f5b4ef160faa89459/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml
+		INJECTED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml
+		ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml
+		ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/philomena/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e4184c8f4049f01ed5ae068bd6eafef2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/philomena/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e4184c8f4049f01ed5ae068bd6eafef2/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.player.MainActivity
+ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.android.player.MyPLayer
+ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:19:9-46
+	android:name
+		ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:19:19-43
+activity#com.example.android.player.AlbumActivity
+ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:20:9-51
+	android:name
+		ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:20:19-48
+activity#com.example.android.player.AllSongsActivity
+ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:21:9-54
+	android:name
+		ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:21:19-51
+activity#com.example.android.player.ArtistActivity
+ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:22:9-52
+	android:name
+		ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml:22:19-49
+uses-sdk
+INJECTED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml
+INJECTED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/philomena/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/39091d91b6be142a689a859d4c994904/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/philomena/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/39091d91b6be142a689a859d4c994904/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/philomena/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e4184c8f4049f01ed5ae068bd6eafef2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/philomena/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e4184c8f4049f01ed5ae068bd6eafef2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/philomena/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/abb36b40a58eb821a806bc2cc6993318/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/philomena/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/abb36b40a58eb821a806bc2cc6993318/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/philomena/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b3038739156ad5962e16e94298225bb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/philomena/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b3038739156ad5962e16e94298225bb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/philomena/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e0e4d373cf44e31ea7c5544c8cdafa89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/philomena/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e0e4d373cf44e31ea7c5544c8cdafa89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/philomena/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b793009bd176569a0d87d91ed824616f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/philomena/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b793009bd176569a0d87d91ed824616f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/philomena/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b183afad65fe2ae9dcd17f57f6992f32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/philomena/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b183afad65fe2ae9dcd17f57f6992f32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/philomena/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d2b8f7b9eaf311aa70be6670f1d804ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/philomena/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d2b8f7b9eaf311aa70be6670f1d804ed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/philomena/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7cb98bb2271956277594adea3719eab8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/philomena/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7cb98bb2271956277594adea3719eab8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/philomena/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e97ad3f37c892d65c256e7ce52424cb4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/philomena/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e97ad3f37c892d65c256e7ce52424cb4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/philomena/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b46b55610c09bd6674764a1343b41bd2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/philomena/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b46b55610c09bd6674764a1343b41bd2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/philomena/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1371622bb6aeed6f5b4ef160faa89459/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/philomena/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1371622bb6aeed6f5b4ef160faa89459/AndroidManifest.xml:20:5-44
+INJECTED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml
+INJECTED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml
+		ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml
+		INJECTED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml
+		ADDED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml
+		INJECTED from /home/philomena/Downloads/Player/app/src/main/AndroidManifest.xml

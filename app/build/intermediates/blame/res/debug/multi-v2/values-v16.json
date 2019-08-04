@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/philomena/Downloads/Player/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/philomena/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d2b8f7b9eaf311aa70be6670f1d804ed/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/philomena/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/39091d91b6be142a689a859d4c994904/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}
